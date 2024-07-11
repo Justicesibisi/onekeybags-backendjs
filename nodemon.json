@@ -2,6 +2,6 @@
     "watch": ["*.js", "routes/*.js", "controllers/*.js", "middlewares/*.js", "models/*.js", "utils/*.js"],
     "ext": "js,json",
     "ignore": ["node_modules/*"],
-    "exec": "node app.js"
+    "exec": "node server.js"
   }
   
